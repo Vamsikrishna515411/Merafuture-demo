@@ -1,2 +1,3 @@
 # Merafuture-demo
-This is my first repository
+This is my first repository.
+Author - Vamsi krishna Nichenameetla
